@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dev.Name-김재엽-red"/>
 
-<img alt="Samsung" src ="https://img.shields.io/badge/Samsung-01579B.svg?&style=for-the-badge&logo=Samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/>
+
 
 
 
