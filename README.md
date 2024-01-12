@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dev.Name-김재엽-red"/>
 
-<img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-#000000?style=plastic&logo=macOS&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> 
+<img src="https://img.shields.io/badge/macOS-#000000?style=plastic&logo=macOS&logoColor=#000000"/>
 
 
 
