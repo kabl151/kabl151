@@ -1,4 +1,4 @@
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20%20%20World!&section=header&reversal=false&textBg=false&fontAlignY=85&animation=fadeIn&fontColor=000000&stroke=000000&strokeWidth=0&rotate=0.1&desc=JY%20Kim&descAlign=30&descAlignY=71" />
 
 ![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabl151&show_icons=true&theme=vue)
@@ -6,13 +6,15 @@
 
 
 
+
   
-<h2>Who Am I </h2>
+<h2> Who Am I </h2>
 <img src="https://img.shields.io/badge/Dev.-김 재 엽-red"/>
 
-</div>
 
 
+
+<h2> What I use </h2>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 
@@ -21,7 +23,7 @@
 
 
 
-
+</div>
 <!--
 **kabl151/kabl151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
