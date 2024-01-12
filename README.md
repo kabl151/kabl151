@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20%20%20World!&section=header&reversal=false&textBg=false&fontAlignY=85&animation=fadeIn&fontColor=000000&stroke=000000&strokeWidth=0&rotate=0.1&desc=JY%20Kim&descAlign=30&descAlignY=71" />
 
 ![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabl151&show_icons=true&theme=vue)
- 　   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabl151)](https://solved.ac/kabl151/) 
 
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabl151)](https://solved.ac/kabl151/) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kabl151&theme=warm)
 
 
   
@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white"/> <img src="https://img.shields.io/badge/visual Basic-512BD4?style=flat-square&logo=visual Basic&logoColor=white"/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabl151&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 </div>
