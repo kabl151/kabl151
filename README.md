@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dev.Name-김재엽-red"/>
 
-<img alt="SASS" src ="https://img.shields.io/badge/Python-01579B.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="SASS" src ="https://img.shields.io/badge/Python-01579B.svg?&style=for-the-badge&logo=Python&logoColor=yellow"/>
 
 
 
