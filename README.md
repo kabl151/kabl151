@@ -1,8 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World!&descAlignY=40&descAlign=79&descSize=5" />
-<div align="right">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabl151)](https://solved.ac/kabl151/) <div align="right"> <img src="https://img.shields.io/badge/Dev.-김 재 엽-red"/> </div>
 
+![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabl151&show_icons=true&theme=vue)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabl151)](https://solved.ac/kabl151/) 
+<div align="right"> <img src="https://img.shields.io/badge/Dev.-김 재 엽-red"/> </div>
 
 
   
