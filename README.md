@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlignY=40&descAlign=79&descSize=5" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello %20World!&descAlignY=40&descAlign=79&descSize=5" />
 
 <img src="https://img.shields.io/badge/Dev.-김 재 엽-red"/>
 
