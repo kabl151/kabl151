@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
-<img src="https://img.shields.io/badge/github-김재엽-red"/>
+<img src="https://img.shields.io/badge/Dev.Name-김재엽-red"/>
 
 
 
