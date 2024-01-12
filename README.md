@@ -4,6 +4,10 @@
 
 <img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> 
+
+
+
+<img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-blue?style=plastic&logo=Samsung&logoColor=white"/> 
 <img src="https://img.shields.io/badge/macOS-#000000?style=plastic&logo=macOS&logoColor=#000000"/>
 
 
